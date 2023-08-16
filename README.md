@@ -18,7 +18,7 @@
    - Which top three companies had the most closed responses?
 
 ## Links and References
-  The DataSet we used for our project is from [Kaggle](https://www.kaggle.com/datasets/taeefnajib/bank-customer-complaints) and the source that was used for said dataset was [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/data-research/consumer-complaints/).
+  The DataSet we used for our project is from [Kaggle](https://www.kaggle.com/datasets/taeefnajib/bank-customer-complaints) and the source that was used for said dataset was from the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/data-research/consumer-complaints/).
 
 
 ## Analysis
