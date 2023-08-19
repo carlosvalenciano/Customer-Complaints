@@ -22,6 +22,10 @@
 
 
 ## Analysis
+Our analysis is that consumer complaints saw very little to no effect from a company's public response. Many of the top issues consumers faced were overwhelmingly closed with a non-public response ( a letter in the mail, email, phone call).
+From the data presented, the issues most frequent with Texas mortgages between 2011 to 2019 were: loan servicing, payments and escrow accounts, and we saw that most companies show to have mixed results to handling complaints based on the type of loan consumers obtained.
+Many of the response's companies gave were closed with an explanation which just means companies like Bank of America, Nation Star, and Ocwen Financial gave brief summaries to why or why not a request was approved. Fortunately, enough for consumers according to the Consumer Financial Protection Bureau, companies provided a timely response to 99% of the approximate 800,000 complaints.
+
 
 
 ### Group Members
